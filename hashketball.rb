@@ -1,4 +1,4 @@
-require_relative 'print_bug'
+# require_relative 'print_bug'
 require 'pry'
 
 def game_hash
